@@ -1,0 +1,15 @@
+# Local preferences can contain character names and personal paths.
+settings.xml
+*.csv
+*.log
+*.error.txt
+work/
+bin/
+obj/
+.vs/
+*.user
+# Build locally; compiled packages are distributed separately.
+*.exe
+*.pdb
+*.zip
+repo-created.png
